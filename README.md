@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 -😄 Pronouns: She
 
 -⚡ Fun fact: I have a deep appreciation for the arts and enjoy exploring various forms of artistic expression. Whether it’s painting, music, or performance, I find joy and inspiration in the creative world.
+
+<p align="left">
+<a href="https://github.com/ReniUswatun">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReniUswatun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReniUswatun&layout=compact&theme=algolia"/>
+</a>
+</p>
