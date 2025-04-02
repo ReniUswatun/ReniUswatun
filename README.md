@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 
 -💬 Feel free to ask me about the latest trends in technology, best practices in web and front-end development, or my experiences as a student in the Informatics program. I love discussing tech and sharing insights!
 
--📫 How to reach me: You can contact me via email at reniuswatun06791@gmail.com or connect with me on LinkedIn. I’m always open to networking and collaborating with like-minded individuals.
+-📫 How to reach me: You can contact me via email at reniuswatun06791@gmail.com or connect with me on LinkedIn.
 
 -😄 Pronouns: She
 
--⚡ Fun fact: I have a deep appreciation for the arts and enjoy exploring various forms of artistic expression. Whether it’s painting, music, or performance, I find joy and inspiration in the creative world.
+-⚡ Fun fact: I like cat.
 
 <p align="left">
 <a href="https://github.com/ReniUswatun">
