@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -👯 I’m looking to collaborate on projects related to web development, ai engineer, and front-end development.
 
--🤔 I’m seeking assistance with learning new programming languages and conducting research on artificial intelligence.
+-🤔 I am looking for friends who can learn new programming languages ​​and do research on artificial intelligence together.
 
 -💬 Feel free to ask me about the latest trends in technology. I love discussing tech and sharing insights!
 
