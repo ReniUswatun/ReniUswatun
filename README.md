@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 -🌱 I’m currently studying at Universitas Sebelas Maret, where I am majoring in Informatics. 
 
--👯 I’m looking to collaborate on projects related to web development, ai engineer, and front-end development.
+-👯 I’m looking to collaborate on projects related to Backend Developer and ai engineer.
 
 -🤔 I am looking for friends who can learn new programming languages ​​and do research on artificial intelligence together.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -😄 Pronouns: She
 
--⚡ Fun fact: I like cat.
+-⚡ Fun fact: I like cat
 
 <p align="left">
 <a href="https://github.com/ReniUswatun">
